@@ -19,3 +19,13 @@ Studi kasus perusahaan asuransi jiwa dan kesehatan yang ingin memahami variasi b
 
 ## File
 - `sql/queries.sql` – seluruh query SQL yang digunakan
+
+## Dokumen dan Bukti Pengerjaan
+
+| File | Isi |
+|---|---|
+| [`sql/queries.sql`](sql/queries.sql) | Query SQL BigQuery dan BigQuery ML |
+| [`laporan/laporan_lab_bigquery.pdf`](laporan/laporan_lab_bigquery.pdf) | Laporan lab: staging, quality check, transformasi, dan BigQuery ML beserta screenshot |
+| [`laporan/paper_prediksi_biaya_klaim.pdf`](laporan/paper_prediksi_biaya_klaim.pdf) | Paper ilmiah (format IEEE) prediksi biaya klaim rawat inap |
+
+> Data pribadi anggota tim (nama, NIM, email) sudah dihapus dari dokumen.
